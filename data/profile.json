@@ -86,14 +86,39 @@
     ],
     "portfolio": [
         {
-            "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
-            "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
-            "certificado": "https://www.dio.me/certificate/34F1FBA1"
+            "name": "HBO Max Clone",
+            "url": "https://github.com/JosielJrr/clone-hbo-max",
+            "github": "true"
         },
         {
-            "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
-            "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
-            "certificado": "https://www.dio.me/certificate/9A5090FC"
+            "name": "Vinacafé - Projeto de Cafeteria",
+            "url": "https://github.com/JosielJrr/coffee-shop",
+            "github": "true"
+        },
+        {
+            "name": "Pokédex",
+            "url": "https://github.com/JosielJrr/pokedex",
+            "github": "true"
+        },
+        {
+            "name": "Discord - Página Inicial",
+            "url": "https://github.com/JosielJrr/discord-homepage",
+            "github": "true"
+        },
+        {
+            "name": "Landing Page DIO",
+            "url": "https://github.com/JosielJrr/landing-page-dio",
+            "github": "true"
+        },
+        {
+            "name": "YouTube - Página Inicial",
+            "url": "https://github.com/JosielJrr/youtube-homepage",
+            "github": "true"
+        },
+        {
+            "name": "YouTube - Assistindo Vídeo",
+            "url": "https://github.com/JosielJrr/youtube-video-page",
+            "github": "true"
         }
     ],
     "experiencias": [
