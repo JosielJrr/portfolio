@@ -35,18 +35,22 @@ function updateLanguages(profileData) {
 function updateTraining(profileData) {
     const training = document.getElementById('profile.education');
     training.innerHTML = profileData.education.map((education) => {
+
         const startDate = education.period && education.period.start ? education.period.start : '--';
         const endDate = education.period && education.period.end ? education.period.end : '--';
+
+        const certificateLink = education.certificate ? `<a href="${education.certificate}" target="_blank" class="certificate">Diploma - ${education.training}</a>` : '';
 
         return `<li>
             <h3>${education.training}</h3>
             <h4>${education.institution}</h4>
             <p class="period">Início: ${startDate} Fim: ${endDate}</p>
-            <a href="${education.certificate}" target="_blank"
-                class="certificate">Diploma - ${education.training}</a>
+            ${certificateLink} 
         </li>`;
     }).join(' ');
 }
+
+
 
 
 
