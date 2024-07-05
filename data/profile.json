@@ -8,16 +8,32 @@
     "skills": {
         "hardSkills": [
             {
-                "nome": "HTML",
-                "logo": "TODO"
+                "name": "HTML5",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/html.png"
             },
             {
-                "nome": "CSS",
-                "logo": "TODO"
+                "name": "CSS3",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/css.png"
             },
             {
-                "nome": "JavaScript",
-                "logo": "TODO"
+                "name": "JavaScript",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/js.png"
+            },
+            {
+                "name": "React",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/react.png"
+            },
+            {
+                "name": "Git",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/git.png"
+            },
+            {
+                "name": "Github",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/github.png"
+            },
+            {
+                "name": "Visual Studio Code",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/vscode.png"
             }
         ],
         "softSkills": [
