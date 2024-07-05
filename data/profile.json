@@ -1,12 +1,9 @@
 {
-    "nome": "Josiel Jr.",
-    "titulo": "Junior Developer",
-    "localidade": {
-        "cidade": "Recife",
-        "estado": "Pernambuco",
-        "pais": "Brasil"
-    },
-    "telefone": "(81) 98606-1838",
+    "name": "Josiel Jr.",
+    "photo": "https://avatars.githubusercontent.com/u/151585338?v=4",
+    "job": "Junior Developer",
+    "location": "Pernambuco - BR",
+    "phone": "(81) 98606-1838",
     "email": "josieljrr.dev@gmail.com",
     "skills": {
         "hardSkills": [
