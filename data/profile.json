@@ -121,15 +121,15 @@
             "github": "true"
         }
     ],
-    "experiencias": [
+    "experience": [
         {
-            "nome": "",
-            "descricao": "",
-            "instituicao": "",
-            "periodo": {
-                "inicio": "",
-                "fim": ""
-            }
+            "nome": "A procura da primeira experiência profissonal",
+            "institution": "",
+            "period": {
+                "start": "",
+                "end": ""
+            },
+              "description": "Busco aplicar os conhecimentos adquiridos em projetos pessoais e cursos, contribuindo com habilidades em desenvolvimento web."
         }
     ]
 }
