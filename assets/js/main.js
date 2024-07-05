@@ -50,6 +50,19 @@ function updateTraining(profileData) {
     }).join(' ');
 }
 
+function updatePortfolio(profileData) {
+    const portfolio = document.getElementById('profile.portfolio')
+    portfolio.innerHTML = profileData.portfolio.map((project) => {
+        const github = project.github ? `class="title github"` : '';
+
+        return `
+        <li>
+            <h3 ${github} >${project.name}</h3>
+            <a href="${project.url}" target="_blank">Ir para o Repositório</a>
+        </li>`
+    }).join(' ')
+}
+
 
 
 
@@ -62,4 +75,5 @@ function updateTraining(profileData) {
     updatehardSkills(profileData)
     updateLanguages(profileData)
     updateTraining(profileData)
+    updatePortfolio(profileData)
 })()
