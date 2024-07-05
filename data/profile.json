@@ -46,38 +46,42 @@
     "languages": [
         "Português (BR)"
     ],
-    "educacao": [
+    "education": [
         {
-            "nome": "dio.me",
-            "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
-            "instituicao": "Digital Innovation One (DIO)",
-            "periodo": {
-                "inicio": "2023",
-                "fim": "Atualmente"
+            "training": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+            "institution": "Universidade Maurício de Nassau (UNINASSAU)",
+            "period": {
+                "start": "2022",
+                "end": "2024"
             },
-            "certificados": [
-                {
-                    "nome": "Bootcamp: Potência Tech iFood - Programação do Zero",
-                    "link": "https://hermes.dio.me/certificates/65852430.pdf"
-                },
-                {
-                    "nome": "Curso: Formação HTML Web Developer",
-                    "link": "https://hermes.dio.me/certificates/6CCBFBCF.pdf"
-                },
-                {
-                    "nome": "Curso: Formação CSS Web Developer",
-                    "link": "https://hermes.dio.me/certificates/ZGHUG5WV.pdf"
-                }
-            ]
+            "certificate": ""
         },
         {
-            "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
-            "descricao": "Estudo focado em programação, análise de sistemas e gestão de projetos",
-            "instituicao": "Universidade Maurício de Nassau (UNINASSAU)",
-            "periodo": {
-                "inicio": "2022",
-                "fim": "2024"
-            }
+            "training": "Bootcamp: Potência Tech iFood - Programação do Zero",
+            "institution": "Digital Innovation One (DIO)",
+            "period": {
+                "start": "",
+                "end": ""
+            },
+            "certificate": "https://hermes.dio.me/certificates/65852430.pdf"
+        },
+        {
+            "training": "Formação HTML Web Developer",
+            "institution": "Digital Innovation One (DIO)",
+            "period": {
+                "start": "",
+                "end": ""
+            },
+            "certificate": "https://hermes.dio.me/certificates/6CCBFBCF.pdf"
+        },
+        {
+            "training": "Formação CSS Web Developer",
+            "institution": "Digital Innovation One (DIO)",
+            "period": {
+                "start": "",
+                "end": ""
+            },
+            "certificate": "https://hermes.dio.me/certificates/ZGHUG5WV.pdf"
         }
     ],
     "portfolio": [
