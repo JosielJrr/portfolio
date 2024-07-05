@@ -1,0 +1,96 @@
+{
+    "nome": "Josiel Jr.",
+    "titulo": "Junior Developer",
+    "localidade": {
+        "cidade": "Recife",
+        "estado": "Pernambuco",
+        "pais": "Brasil"
+    },
+    "telefone": "(81) 98606-1838",
+    "email": "josieljrr.dev@gmail.com",
+    "skills": {
+        "hardSkills": [
+            {
+                "nome": "HTML",
+                "logo": "TODO"
+            },
+            {
+                "nome": "CSS",
+                "logo": "TODO"
+            },
+            {
+                "nome": "JavaScript",
+                "logo": "TODO"
+            }
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Organização",
+            "Comprometimento com resultados",
+            "Trabalho em equipe"
+        ]
+    },
+    "idiomas": [
+        {
+            "nome": "Português",
+            "nivel": "Nativo"
+        }
+    ],
+    "educacao": [
+        {
+            "nome": "dio.me",
+            "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
+            "instituicao": "Digital Innovation One (DIO)",
+            "periodo": {
+                "inicio": "2023",
+                "fim": "Atualmente"
+            },
+            "certificados": [
+                {
+                    "nome": "Bootcamp: Potência Tech iFood - Programação do Zero",
+                    "link": "https://hermes.dio.me/certificates/65852430.pdf"
+                },
+                {
+                    "nome": "Curso: Formação HTML Web Developer",
+                    "link": "https://hermes.dio.me/certificates/6CCBFBCF.pdf"
+                },
+                {
+                    "nome": "Curso: Formação CSS Web Developer",
+                    "link": "https://hermes.dio.me/certificates/ZGHUG5WV.pdf"
+                }
+            ]
+        },
+        {
+            "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+            "descricao": "Estudo focado em programação, análise de sistemas e gestão de projetos",
+            "instituicao": "Universidade Maurício de Nassau (UNINASSAU)",
+            "periodo": {
+                "inicio": "2022",
+                "fim": "2024"
+            }
+        }
+    ],
+    "portfolio": [
+        {
+            "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
+            "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
+            "certificado": "https://www.dio.me/certificate/34F1FBA1"
+        },
+        {
+            "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
+            "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
+            "certificado": "https://www.dio.me/certificate/9A5090FC"
+        }
+    ],
+    "experiencias": [
+        {
+            "nome": "",
+            "descricao": "",
+            "instituicao": "",
+            "periodo": {
+                "inicio": "",
+                "fim": ""
+            }
+        }
+    ]
+}
