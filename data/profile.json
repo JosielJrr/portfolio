@@ -43,11 +43,8 @@
             "Trabalho em equipe"
         ]
     },
-    "idiomas": [
-        {
-            "nome": "Português",
-            "nivel": "Nativo"
-        }
+    "languages": [
+        "Português (BR)"
     ],
     "educacao": [
         {
