@@ -82,6 +82,15 @@
                 "end": ""
             },
             "certificate": "https://hermes.dio.me/certificates/ZGHUG5WV.pdf"
+        },
+        {
+            "training": "Formação JavaScript Developer",
+            "institution": "Digital Innovation One (DIO)",
+            "period": {
+                "start": "",
+                "end": ""
+            },
+            "certificate": "https://hermes.dio.me/certificates/ZSXV1KZT.pdf"
         }
     ],
     "portfolio": [
