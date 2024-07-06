@@ -63,9 +63,22 @@ function updatePortfolio(profileData) {
     }).join(' ')
 }
 
+function updateProfessionalExperience(profileData){
+    const professionalExperience = document.getElementById('profile.professionalExperience')
+    professionalExperience.innerHTML = profileData.experience.map((experience) => {
+    
+        const startDate = experience.period && experience.period.start ? experience.period.start : '--';
+        const endDate = experience.period && experience.period.end ? experience.period.end : '--';
 
-
-
+        return `
+        <li>
+            <h3 class="title">${experience.name}</h3>
+            <h4>${experience.institution}</h4>
+            <p class="period">Início: ${startDate} Fim: ${endDate}</p>
+            <p>${experience.description}</p>
+        </li>`
+    })
+}
 
 
 (async () => {
@@ -76,4 +89,5 @@ function updatePortfolio(profileData) {
     updateLanguages(profileData)
     updateTraining(profileData)
     updatePortfolio(profileData)
+    updateProfessionalExperience(profileData)
 })()
