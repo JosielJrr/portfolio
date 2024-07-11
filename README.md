@@ -19,7 +19,7 @@ Este projeto é meu portfólio pessoal desenvolvido para apresentar minhas compe
 Para clonar e executar este projeto em sua máquina local, siga estas etapas:
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/JosielJrr/portfolio.git
 2. Abra o arquivo **index.html** em seu navegador preferido para visualizar meu portfólio.
 
 ## Notas Adicionais 
