@@ -23,5 +23,5 @@ Para clonar e executar este projeto em sua máquina local, siga estas etapas:
    ```
 2. Abra o arquivo **index.html** em seu navegador preferido para visualizar meu portfólio.
 
-## Notas Adicionais 
-Esse projeto foi desenvolvido na Formação JavaScript Developer da Digital Innovation One.
+## Nota Adicional
+- Este projeto foi desenvolvido como parte da Formação JavaScript Developer da [Digital Innovation One](https://www.dio.me/).
