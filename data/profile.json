@@ -66,6 +66,24 @@
             "certificate": "https://hermes.dio.me/certificates/65852430.pdf"
         },
         {
+            "training": "Formação Lógica de Programação",
+            "institution": "Digital Innovation One (DIO)",
+            "period": {
+                "start": "",
+                "end": ""
+            },
+            "certificate": "https://hermes.dio.me/certificates/BXGIQQHL.pdf"
+        },
+        {
+            "training": "Formação Github Certification",
+            "institution": "Digital Innovation One (DIO)",
+            "period": {
+                "start": "",
+                "end": ""
+            },
+            "certificate": "https://hermes.dio.me/certificates/RLFXGTUO.pdf"
+        },
+        {
             "training": "Formação HTML Web Developer",
             "institution": "Digital Innovation One (DIO)",
             "period": {
@@ -91,29 +109,18 @@
                 "end": ""
             },
             "certificate": "https://hermes.dio.me/certificates/ZSXV1KZT.pdf"
+        },
+        {
+            "training": "Formação React Developer",
+            "institution": "Digital Innovation One (DIO)",
+            "period": {
+                "start": "",
+                "end": ""
+            },
+            "certificate": "https://hermes.dio.me/certificates/5Y0WKA7I.pdf"
         }
     ],
     "portfolio": [
-        {
-            "name": "HBO Max Clone",
-            "url": "https://github.com/JosielJrr/clone-hbo-max",
-            "github": "true"
-        },
-        {
-            "name": "Vinacafé - Projeto de Cafeteria",
-            "url": "https://github.com/JosielJrr/coffee-shop",
-            "github": "true"
-        },
-        {
-            "name": "Pokédex",
-            "url": "https://github.com/JosielJrr/pokedex",
-            "github": "true"
-        },
-        {
-            "name": "Discord - Página Inicial",
-            "url": "https://github.com/JosielJrr/discord-homepage",
-            "github": "true"
-        },
         {
             "name": "Landing Page DIO",
             "url": "https://github.com/JosielJrr/landing-page-dio",
@@ -130,8 +137,53 @@
             "github": "true"
         },
         {
+            "name": "Discord - Página Inicial",
+            "url": "https://github.com/JosielJrr/discord-homepage",
+            "github": "true"
+        },
+        {
+            "name": "HBO Max Clone",
+            "url": "https://github.com/JosielJrr/clone-hbo-max",
+            "github": "true"
+        },
+        {
+            "name": "Vinacafé - Projeto de Cafeteria",
+            "url": "https://github.com/JosielJrr/coffee-shop",
+            "github": "true"
+        },
+        {
+            "name": "Pokédex",
+            "url": "https://github.com/JosielJrr/pokedex",
+            "github": "true"
+        },
+        {
             "name": "Calculadora Web",
             "url": "https://github.com/JosielJrr/calculator",
+            "github": "true"
+        },
+        {
+            "name": "Spider-Man Multiverse",
+            "url": "https://github.com/JosielJrr/spider-man-multiverse",
+            "github": "true"
+        },
+        {
+            "name": "GitHub Profile Viewer",
+            "url": "https://github.com/JosielJrr/gitHub-profile-viewer",
+            "github": "true"
+        },
+        {
+            "name": "Github Repository Manager",
+            "url": "https://github.com/JosielJrr/github-repository-manager",
+            "github": "true"
+        },
+        {
+            "name": "Página de Login",
+            "url": "https://github.com/JosielJrr/login-page-validation-ts",
+            "github": "true"
+        },
+        {
+            "name": "To do List",
+            "url": "https://github.com/JosielJrr/react-todo-list",
             "github": "true"
         }
     ],
@@ -143,7 +195,7 @@
                 "start": "",
                 "end": ""
             },
-              "description": "Busco aplicar os conhecimentos adquiridos em projetos pessoais e cursos, contribuindo com habilidades em desenvolvimento web."
+            "description": "Busco aplicar os conhecimentos adquiridos em projetos pessoais e cursos, contribuindo com habilidades em desenvolvimento web."
         }
     ]
 }
