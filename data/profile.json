@@ -16,6 +16,10 @@
                 "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/css.png"
             },
             {
+                "name": "TailWind CSS",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/tailwindcss.png"
+            },
+            {
                 "name": "JavaScript",
                 "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/js.png"
             },
@@ -113,6 +117,15 @@
                 "end": ""
             },
             "certificate": "https://hermes.dio.me/certificates/ZSXV1KZT.pdf"
+        },
+        {
+            "training": "Formação TypeScript Fullstack Developer",
+            "institution": "Digital Innovation One (DIO)",
+            "period": {
+                "start": "",
+                "end": ""
+            },
+            "certificate": "https://hermes.dio.me/certificates/1BWGKWZO.pdf"
         },
         {
             "training": "Formação React Developer",
