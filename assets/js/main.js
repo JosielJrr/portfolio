@@ -42,8 +42,7 @@ function updateTraining(profileData) {
         const certificateLink = education.certificate ? `<a href="${education.certificate}" target="_blank" class="certificate">Certificado - ${education.training}</a>` : '';
 
         return `<li>
-            <h3>${education.training}</h3>
-            <h4>${education.institution}</h4>
+            <h3>${education.training} - ${education.institution}</h3>
             <p class="period">Início: ${startDate} Fim: ${endDate}</p>
             ${certificateLink} 
         </li>`;
