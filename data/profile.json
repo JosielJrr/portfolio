@@ -20,20 +20,24 @@
                 "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/js.png"
             },
             {
+                "name": "TypeScript",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/ts.png"
+            },
+            {
                 "name": "React",
                 "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/react.png"
+            },
+            {
+                "name": "Next.js",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/nextjs.png"
             },
             {
                 "name": "Git",
                 "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/git.png"
             },
             {
-                "name": "Github",
+                "name": "Github", 
                 "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/github.png"
-            },
-            {
-                "name": "Visual Studio Code",
-                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/vscode.png"
             }
         ],
         "softSkills": [
