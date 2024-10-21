@@ -139,33 +139,18 @@
     ],
     "portfolio": [
         {
-            "name": "Landing Page DIO",
-            "url": "https://github.com/JosielJrr/landing-page-dio",
+            "name": "Lista de Tarefas - Next.js",
+            "url": "https://github.com/JosielJrr/nextjs-todo-app",
             "github": "true"
         },
         {
-            "name": "YouTube - Página Inicial",
-            "url": "https://github.com/JosielJrr/youtube-homepage",
+            "name": "To do List - React + Vite",
+            "url": "https://github.com/JosielJrr/react-todo-list",
             "github": "true"
         },
         {
-            "name": "YouTube - Assistindo Vídeo",
-            "url": "https://github.com/JosielJrr/youtube-video-page",
-            "github": "true"
-        },
-        {
-            "name": "Discord - Página Inicial",
-            "url": "https://github.com/JosielJrr/discord-homepage",
-            "github": "true"
-        },
-        {
-            "name": "HBO Max Clone",
-            "url": "https://github.com/JosielJrr/clone-hbo-max",
-            "github": "true"
-        },
-        {
-            "name": "Vinacafé - Projeto de Cafeteria",
-            "url": "https://github.com/JosielJrr/coffee-shop",
+            "name": "Calculadora Aritmética - React",
+            "url": "https://github.com/JosielJrr/react-todo-list",
             "github": "true"
         },
         {
@@ -174,8 +159,8 @@
             "github": "true"
         },
         {
-            "name": "Calculadora Web",
-            "url": "https://github.com/JosielJrr/calculator",
+            "name": "GitHub Profile Viewer",
+            "url": "https://github.com/JosielJrr/gitHub-profile-viewer",
             "github": "true"
         },
         {
@@ -184,23 +169,33 @@
             "github": "true"
         },
         {
-            "name": "GitHub Profile Viewer",
-            "url": "https://github.com/JosielJrr/gitHub-profile-viewer",
+            "name": "HBO Max Clone",
+            "url": "https://github.com/JosielJrr/clone-hbo-max",
             "github": "true"
         },
         {
-            "name": "Github Repository Manager",
-            "url": "https://github.com/JosielJrr/github-repository-manager",
+            "name": "Discord Home Page",
+            "url": "https://github.com/JosielJrr/discord-homepage",
             "github": "true"
         },
         {
-            "name": "Página de Login",
-            "url": "https://github.com/JosielJrr/login-page-validation-ts",
+            "name": "Vinacafé - Projeto de Cafeteria",
+            "url": "https://github.com/JosielJrr/coffee-shop",
             "github": "true"
         },
         {
-            "name": "To do List",
-            "url": "https://github.com/JosielJrr/react-todo-list",
+            "name": "YouTube Home Page",
+            "url": "https://github.com/JosielJrr/youtube-homepage",
+            "github": "true"
+        },
+        {
+            "name": "YouTube Video Page",
+            "url": "https://github.com/JosielJrr/youtube-video-page",
+            "github": "true"
+        },
+        {
+            "name": "Landing Page DIO",
+            "url": "https://github.com/JosielJrr/landing-page-dio",
             "github": "true"
         }
     ],
@@ -212,7 +207,7 @@
                 "start": "",
                 "end": ""
             },
-            "description": "Busco aplicar os conhecimentos adquiridos em projetos pessoais e cursos, contribuindo com habilidades em desenvolvimento web."
+            "description": "Quero aplicar os conhecimentos adquiridos e contribuir com minhas habilidades em desenvolvimento web."
         }
     ]
 }
