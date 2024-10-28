@@ -135,9 +135,23 @@
                 "end": ""
             },
             "certificate": "https://hermes.dio.me/certificates/5Y0WKA7I.pdf"
+        },
+        {
+            "training": "Formação Next.js Developer",
+            "institution": "Hora de Codar",
+            "period": {
+                "start": "",
+                "end": ""
+            },
+            "certificate": "https://drive.google.com/file/d/1YkPWF545fvzlutf7IscR6PkqGEGRkwTx/view?usp=drive_link"
         }
     ],
     "portfolio": [
+        {
+            "name": "NextGram - Next.js e TS",
+            "url": "https://github.com/JosielJrr/nextgram-next-ts",
+            "github": "true"
+        },
         {
             "name": "Lista de Tarefas - Next.js",
             "url": "https://github.com/JosielJrr/nextjs-todo-app",
