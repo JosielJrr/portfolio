@@ -49,6 +49,14 @@ header .title {
     background-image: url('../image/icons/location.svg');
 }
 
+.information .linkedin::before {
+    background-image: url('../image/icons/linkedin.svg');
+}
+
+.information .resume::before {
+    background-image: url('../image/icons/resume.svg');
+}
+
 .information .phone::before {
     background-image: url('../image/icons/phone.svg');
 }
