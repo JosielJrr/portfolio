@@ -20,6 +20,14 @@
                 "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/tailwindcss.png"
             },
             {
+                "name": "BootStrap",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/bootstrap.png"
+            },
+            {
+                "name": "SASS",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/sass.png"
+            },
+            {
                 "name": "JavaScript",
                 "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/js.png"
             },
@@ -36,12 +44,16 @@
                 "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/nextjs.png"
             },
             {
+                "name": "Angular",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/angular.png"
+            },
+            {
                 "name": "Git",
                 "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/git.png"
             },
             {
-                "name": "Github", 
-                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/github.png"
+                "name": "Figma",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/figma.png"
             }
         ],
         "softSkills": [
@@ -144,9 +156,42 @@
                 "end": ""
             },
             "certificate": "https://app.horadecodar.com.br/certificates/17/user/545/certificate-authenticity"
+        },
+        {
+            "training": "Formação Angular Developer",
+            "institution": "DIO",
+            "period": {
+                "start": "",
+                "end": ""
+            },
+            "certificate": "https://hermes.dio.me/certificates/AUDMSJ8E.pdf"
+        },
+        {
+            "training": "Formação UX Designer",
+            "institution": "DIO",
+            "period": {
+                "start": "",
+                "end": ""
+            },
+            "certificate": "https://hermes.dio.me/certificates/7DNLF7IC.pdf"
         }
     ],
     "portfolio": [
+        {
+            "name": "BuzzFeed Quiz - Angular",
+            "url": "https://github.com/JosielJrr/buzzfeed-quiz-angular",
+            "github": "true"
+        },
+        {
+            "name": "PlayStation Store - Angular",
+            "url": "https://github.com/JosielJrr/playstation-store-angular",
+            "github": "true"
+        },
+        {
+            "name": "Marvel Blog - Angular",
+            "url": "https://github.com/JosielJrr/marvel-blog-angular",
+            "github": "true"
+        },
         {
             "name": "NextGram - Next.js e TS",
             "url": "https://github.com/JosielJrr/nextgram-next-ts",

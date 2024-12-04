@@ -4,14 +4,11 @@ function updateProfileInfo(profileData) {
     photo.src = profileData.photo
     photo.alt = profileData.name
 
-    const location = document.getElementById('profile.location')
-    location.innerText = profileData.location
-
     const job = document.getElementById('profile.job')
     job.innerText = profileData.job
 
-    const resume = document.getElementById('profile.resume')
-    resume.innerText = profileData.resume
+    const location = document.getElementById('profile.location')
+    location.innerText = profileData.location
 
     const phone = document.getElementById('profile.phone')
     phone.innerText = profileData.phone
