@@ -187,6 +187,11 @@
     ],
     "portfolio": [
         {
+            "name": "Spotify Home Page - React",
+            "url": "https://github.com/JosielJrr/spotify-homepage-react",
+            "github": "true"
+        },
+        {
             "name": "BuzzFeed Quiz - Angular",
             "url": "https://github.com/JosielJrr/buzzfeed-quiz-angular",
             "github": "true"
