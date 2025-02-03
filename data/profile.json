@@ -3,7 +3,7 @@
     "photo": "https://avatars.githubusercontent.com/u/151585338?v=4",
     "job": "Junior Developer",
     "location": "Pernambuco - BR",
-    "phone": "(81) 98606-1838",
+    "phone": "",
     "email": "josieljrr.dev@gmail.com",
     "skills": {
         "hardSkills": [
@@ -57,10 +57,10 @@
             }
         ],
         "softSkills": [
+            "Autogestão",
             "Comunicação",
-            "Organização",
-            "Comprometimento com resultados",
-            "Trabalho em equipe"
+            "Resolução de Problemas",
+            "Trabalho em Equipe"
         ]
     },
     "languages": [
@@ -274,7 +274,7 @@
     ],
     "experience": [
         {
-            "name": "A procura da primeira experiência profissonal",
+            "name": "A procura da primeira experiência profissional",
             "institution": "",
             "period": {
                 "start": "",
