@@ -14,7 +14,7 @@ body {
     width: 100%;
     height: 100vh;
     background: linear-gradient(140deg, #00004D 10%, #00004D 30%, #000000 40%, #000000 60%, #2F004F 70%, #4B0082 90%);
-    background-size: 1100% 1100%;
+    background-size: 1500% 1500%;
     color: #fff;
     animation: gradient 20s infinite alternate;
 }
