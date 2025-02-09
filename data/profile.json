@@ -187,6 +187,11 @@
     ],
     "portfolio": [
         {
+            "name": "Currículo Digital - React e SCSS",
+            "url": "https://github.com/JosielJrr/curriculo-digital-react-scss",
+            "github": "true"
+        },
+        {
             "name": "Spotify Home Page - React",
             "url": "https://github.com/JosielJrr/spotify-homepage-react",
             "github": "true"
