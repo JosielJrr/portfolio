@@ -54,6 +54,10 @@
             {
                 "name": "Figma",
                 "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/figma.png"
+            },
+            {
+                "name": "MySQL",
+                "logo": "https://raw.githubusercontent.com/JosielJrr/portfolio/main/data/img/mysql.png"
             }
         ],
         "softSkills": [
