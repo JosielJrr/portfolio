@@ -1,8 +1,10 @@
 {
     "name": "Josiel Jr.",
     "photo": "https://avatars.githubusercontent.com/u/151585338?v=4",
-    "job": "Junior Developer",
+    "job": "Desenvolvedor Front-End Júnior",
     "location": "Pernambuco - BR",
+    "linkedin": "https://www.linkedin.com/in/josiel-alves/",
+    "resume": "https://drive.google.com/open?id=1ij6d_rBtsGfdLmyXkbppCzAxURgueERC&usp=drive_copy",
     "phone": "",
     "email": "josieljrr.dev@gmail.com",
     "skills": {
@@ -289,7 +291,7 @@
                 "start": "",
                 "end": ""
             },
-            "description": "Quero aplicar os conhecimentos adquiridos e contribuir com minhas habilidades em desenvolvimento web."
+            "description": "Quero aplicar meus conhecimentos, encarar novos desafios e evoluir em um ambiente que valorize aprendizado contínuo e colaboração."
         }
     ]
 }

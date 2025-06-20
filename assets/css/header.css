@@ -11,7 +11,8 @@ header .photo {
     border-radius: 50%;
 }
 
-header .title {
+header .title,
+#profile-name {
     font-family: "Naue Machina", sans-serif;
     text-align: center;
 }

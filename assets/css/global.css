@@ -8,7 +8,7 @@
     src: url('../fonts/neue-machina-regular.otf');
 }
 
-body {
+/* body {
     margin: 0;
     padding: 0;
     width: 100%;
@@ -17,6 +17,31 @@ body {
     background-size: 1500% 1500%;
     color: #fff;
     animation: gradient 20s infinite alternate;
+} */
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 100vh;
+    position: relative; /* pra manter o conteúdo sobre o ::before */
+    color: #fff;
+    z-index: 0; /* corpo fica na camada base pra ::before ficar atrás */
+    overflow-x: hidden; /* evita scroll horizontal se algo vazar */
+}
+
+/* Gradiente animado infinito no fundo */
+body::before {
+    content: "";
+    position: fixed; /* Fica fixo no fundo da tela */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Fica atrás de tudo */
+    background: linear-gradient(140deg, #00004D 10%, #00004D 30%, #000000 40%, #000000 60%, #2F004F 70%, #4B0082 90%);
+    background-size: 1500% 1500%;
+    animation: gradient 20s infinite alternate; /* Animação contínua do background */
 }
 
 .main {
@@ -35,6 +60,7 @@ a:hover {
     text-decoration: underline;
 }
 
+/* Animação do gradiente (movimento) */
 @keyframes gradient {
     0% {
         background-position: 0% 50%;

@@ -1,13 +1,20 @@
-const acordeonTriggers = document.querySelectorAll('.acordeon .trigger')
+// Seleciona todos os botões que ativam o acordeon (elementos com classe 'trigger' dentro de 'acordeon')
+const botoesAcordeon = document.querySelectorAll('.acordeon .trigger')
 
-acordeonTriggers.forEach((trigger) => {
-    trigger.addEventListener('click', (e) => {
-        const acordeon = trigger.parentElement
-        const isOpen = acordeon.classList.contains('open')
+// Para cada botão, adiciona um evento de clique
+botoesAcordeon.forEach((botao) => {
+    botao.addEventListener('click', () => {
+        // Pega o elemento pai do botão, que é o container do acordeon
+        const acordeon = botao.parentElement
 
-        if (isOpen) {
+        // Verifica se o acordeon já está aberto (tem a classe 'open')
+        const aberto = acordeon.classList.contains('open')
+
+        if (aberto) {
+            // Se estiver aberto, remove a classe para fechar o acordeon
             acordeon.classList.remove('open')
         } else {
+            // Se estiver fechado, adiciona a classe para abrir o acordeon
             acordeon.classList.add('open')
         }
     })
